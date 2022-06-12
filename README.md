@@ -5,5 +5,5 @@ lenguajes de programación como Python, C++, JavaScript y LUA.
 
 Obviamente, tengo bastantes fallos y errores, pero cada día intento aprender de ellos y mejorar.
 
-Discord: Thomas Alvenin#6981
+Discord: Thomasito#8029
 Email: alveninthomas@gmail.com
